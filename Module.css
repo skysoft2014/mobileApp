@@ -1,0 +1,324 @@
+﻿#Loc_Wrapper{background-color: #FBFBFB;
+    border: 1px solid #CCCCCC;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 30px;
+    width: 100%; padding:10px;}
+
+#mark
+{
+    clear: both;
+    height: 270px;
+    overflow-x: auto;
+    width: 100%;
+}
+
+#Cont_outer{width:100%; position:relative;  float:left;}
+.btncal
+{
+    border: 1px solid silver;
+    font-size: 10px; 
+    }
+    
+    .textarea {
+    border: 1px solid silver;
+    font-size: 11px;
+    
+}
+.lbltd
+{
+    background: none repeat scroll 0 0 #ECECEC;
+    border-bottom: 1px solid #CCCCCC;
+    text-align: right;
+    width: 140px;
+    }
+
+.Custom_add{ border: 1px solid #CCCCCC;
+    font-size: 16px;
+    padding: 1%;
+    width: 98%;
+    }
+    
+    .divheader
+    {
+        
+    background-repeat: no-repeat;
+    color: #0B55C4;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 48px;
+    margin-left: 10px;
+    padding-left: 55px;
+    float:right;
+        }
+    .toolbar{
+    display: block;
+    float: right;
+    height: 32px;
+    margin: 0 auto;
+    width: 32px;
+    }
+    
+    
+    
+    
+    
+.mGrid { width: 100%; background-color: #fff; margin: 5px 0 10px 0; border: solid 1px #525252; border-collapse: collapse; }
+.mGrid td { border: 1px solid #C1C1C1; color: #717171; height: 20px; line-height: 20px; padding: 0 5px; font-size: 12px; }
+.mGrid th { background: url("Images/grd_head.png") repeat-x scroll center top #424242; border-left: 1px solid #525252; color: #FFFFFF; font-size: 12px; height: 20px; line-height: 20px; padding: 0 5px; text-align: left; }
+.mGrid th a{ background: url("Images/grd_head.png") repeat-x scroll center top #424242; border-left: 1px solid #525252; color: #FFFFFF; font-size: 12px; height: 20px; line-height: 20px; padding: 0 5px; text-align: left; }
+.mGrid th a:hover{ background: url("Images/grd_head.png") repeat-x scroll center top #424242; border-left: 1px solid #525252; color:#fff; font-size: 12px; height: 20px; line-height: 20px; padding: 0 5px; text-align: left; }
+
+.mGrid .pgr { background: #424242 url(Images/grd_pgr.png) repeat-x top; }
+.mGrid .pgr table { margin: 5px 0; }
+.mGrid .pgr td { border-width: 0; padding: 0 6px; border-left: solid 1px #666; font-weight: bold; color: #fff; line-height: 12px; }
+.mGrid .pgr a { color: #666; text-decoration: none; }
+.mGrid .pgr a:hover { color: #FFFFFF; text-decoration: none; }
+
+
+.Header_div
+{
+ width:100%;
+
+ margin-top :30px;
+ border:1px solid #CCCCCC; 
+ border-radius: 10px 10px 10px 10px;
+ background-color:#FBFBFB;
+ }
+ .td_Width
+ {
+   width: 50px;
+   margin-top:10px;  
+ }
+ 
+ .td_Width1
+ {
+      width: 38px;
+   margin-top:10px;  
+     }
+ .toolbar {
+    border: 1px solid #FBFBFB;
+    cursor: pointer;
+    display: block;
+    white-space: nowrap;
+ }
+ div.header {
+    color: #0B55C4;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 48px;
+    padding-left: 5px;
+}
+.txt_Color{color:Blue;}
+
+.system_message div.message ul {
+    background: url("images/notice-info.png") no-repeat scroll 4px center #C3D2E5;
+}
+.system_message div ul {
+    border-bottom: 3px solid #84A7DB;
+    border-top: 3px solid #84A7DB;
+    color: #0055BB;
+    list-style: none outside none;
+    padding: 10px;
+    margin-bottom: -20px;
+    margin-top: 10px;
+}
+.system_message div {
+    font-weight: bold;
+    text-indent: 27px;
+}
+.system_message div ul li {
+    list-style-type: none;
+}
+   
+.sbutton{
+    background: none repeat scroll 0 0 #495886;
+    border: 1px solid #CCCCCC;
+    color: #FFFFFF;
+    font-family: 'TitilliumText22LLight';
+    font-size: 16px;
+    height: 31px;
+    width: 100px;
+	cursor:pointer;
+}
+
+.taddress {
+    background: url("images/search1.jpg") no-repeat scroll 0 0 transparent;
+    border: medium none;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 50px 0 5px;
+    width: 166px;
+}
+.lblsetTd
+{
+ text-align:left;
+ width:165px;   
+    }
+
+.nstore1{
+	color: #495886;
+	font-size:16px;
+	font-family: 'TitilliumText22LMedium';
+	border-bottom:1px solid #ccc;
+	margin-bottom:10px;
+	margin-top:10px;
+	line-height:30px;
+}
+
+.sresult
+{
+    color: #666666; background-repeat: repeat; display: block; padding-right:10px;
+	font-family: 'TitilliumText22LLight';
+}
+
+.lname{
+	color: #495886;
+	font-size:18px;
+	font-family: 'TitilliumText22LRegular';
+}
+.lname1{
+	font-weight:bold;
+	color: #666666;
+	font-size:14px;
+	font-family: 'TitilliumText22LLight';
+	padding-left:20px;
+}
+
+.lname2{
+	color: #666666;
+	font-size:12px;
+	font-family:arial;
+	padding-left:20px;
+	display: block;
+}
+
+
+#lstLocation_itemPlaceholderContainer{
+	padding-left:10px;
+}
+
+.sectionsize
+{
+    font-size:15px;
+    
+    }
+    
+    .div1{
+      float: left;
+    padding: 10px 0 0 22px;
+    width: 50%;}
+    
+    
+
+.Result
+{
+    border-left: 1px solid #B2B3B3;
+    color: #4B4B4B;
+    height: 520px;
+    margin-left: 292px;
+    padding-left: 28px;
+    padding-top: 10px;
+    position: relative;
+    width:35%;
+    }
+    
+    .Main
+    {
+         width: 100%;
+        }
+        
+        
+a.button1 {
+    
+    display: inline-block;
+    padding-left: 14px;
+    text-decoration: none;
+}
+
+a.button1 .buttonMask {
+    
+    cursor: pointer;
+    display: inline-block;
+    padding-right: 14px;
+}
+
+a.button1 .text {
+    
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    height: 27px;
+    line-height: 27px;
+    padding: 0 6px;
+    text-align: center;
+    text-shadow: 1px 1px 0 #000000;
+    text-transform: uppercase;
+}
+
+/*.search_locater {
+    float: right;
+    position: absolute;
+    right: -15px;
+    top: -204px;
+    width: 222px;
+	(-bracket-:hack;
+        top: -166px;
+    )
+}*/
+
+.search_locater{ margin-top:-300px;}
+.search_locater .searchbox{
+	width: 73px;
+    height: 21px;
+}
+.search_locater .search_btn{
+	background: #8a8562; /* Old browsers */
+	background: -moz-linear-gradient(top,  #8a8562 0%, #423b28 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#8a8562), color-stop(100%,#423b28)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #8a8562 0%,#423b28 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #8a8562 0%,#423b28 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #8a8562 0%,#423b28 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #8a8562 0%,#423b28 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8a8562', endColorstr='#423b28',GradientType=0 ); /* IE6-9 */
+	border: 0 none;
+    border-radius: 20px 20px 20px 20px;
+	-moz-border-radius: 20px 20px 20px 20px;
+	-webkit-border-radius: 20px 20px 20px 20px;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px 20px;
+    position: relative;
+    right: -13px;
+    text-shadow: 0 2px 0 #111111;
+    text-transform: uppercase;
+    top: 29px;
+
+}
+
+#detailDiv {
+    background: none repeat scroll 0 0 #FFFFFF;
+    clear: both;
+    height: 300px;
+    overflow: hidden;
+    width: 300px;
+    margin-top:10px
+}
+.search_locater .search_btn:hover{
+	background: #49422e; /* Old browsers */
+	background: -moz-linear-gradient(top,  #49422e 0%, #8a8562 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#49422e), color-stop(100%,#8a8562)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #49422e 0%,#8a8562 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #49422e 0%,#8a8562 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #49422e 0%,#8a8562 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #49422e 0%,#8a8562 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#49422e', endColorstr='#8a8562',GradientType=0 ); /* IE6-9 */
+	cursor:pointer;
+}
+.ModBadBoyBuggiesDealersLocatorC{position:relative;}
+
+#Main .div1 .btn {
+    padding: 20px 40px 0 0;
+    text-align: center;
+}
